@@ -16,4 +16,4 @@ Custom Server icon sizes
 
 ## License
 
-See the [LICENSE](https://github.com/hayden-droid/HorizontalServerLis/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/hayden-droid/HorizontalServerList/blob/master/LICENSE.md) file for license rights and limitations (MIT).
