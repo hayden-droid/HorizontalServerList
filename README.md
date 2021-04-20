@@ -3,7 +3,7 @@ Moves the server list from the left to the top of Discord. Compatible with Serve
 
 - - -
 BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3360](https://betterdiscord.net/ghdl?id=3360)  
-Powercord Install: `git clone https://github.com/DiscordStyles/HorizontalServerlist`
+Powercord Install: `git clone https://github.com/hayden-droid/HorizontalServerList/`
 - - -
 
 ![Preview](https://i.imgur.com/ygGh3hy.jpg)  
@@ -16,4 +16,4 @@ Custom Server icon sizes
 
 ## License
 
-See the [LICENSE](https://github.com/DiscordStyles/HorizontalServerList/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/hayden-droid/HorizontalServerLis/blob/master/LICENSE.md) file for license rights and limitations (MIT).
